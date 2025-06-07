@@ -38,16 +38,17 @@ export default function Home() {
         <div className="contenedor">
           <h2>Bienvenido</h2>
           <p>
-            Elevator group panama te ayudara en la elección de tus próximos accesorios para tu
-            negocio, oficina, hogar, edificios, etc... Tenemos para ti una amplia variedad de
-            productos a escoger, con los mayores estándares de seguridad, personalización y
-            comodidad, para escojas lo que más te conviene al mejor precio.
+            Elevator Group Panamá es especialista en soluciones de transporte vertical 
+            que combinan tecnología, seguridad y diseño. Ofrecemos elevadores, montacargas, plataformas, 
+            escaleras eléctricas y sistemas de accesibilidad adaptados a cada necesidad, 
+            con respaldo técnico y atención personalizada. 
+            Elevamos tu experiencia, desde el primer piso hasta la cima.
           </p>
         </div>
       </section>
 
       <section id="blog">
-        <h3>Lo ultimo en Imnovación</h3>
+        <h3>Lo ultimo en Innovación</h3>
         <div className="contenedor">
           <article>
             <img src="/img/evo10.jpg" alt="" />
@@ -55,7 +56,7 @@ export default function Home() {
           </article>
           <article>
             <img src="/img/evo14.jpg" alt="" />
-            <h4>Escaleras electricas</h4>
+            <h4>Escaleras Electricas</h4>
           </article>
           <article>
             <img src="/img/evo15.jpg" alt="" />
