@@ -5,7 +5,7 @@ export default function OronaPage() {
         <img src="img/evo7.jpg" />
         <div className="contenedor">
           <h2>ORONA</h2>
-          <p>Calidad y modernización</p>
+          <p>Calidad y modernidad</p>
           <a href="vision.html">Leer más</a>
         </div>
       </section>
@@ -43,8 +43,8 @@ export default function OronaPage() {
                   <a href="">
                     <h3>Estructura de cabina</h3>
                   </a>
-                  Tipo Jaula, htmlFormada por nervios verticales y horizontales, que mejoran la
-                  rigidez y el conhtmlFort.
+                  Tipo Jaula, formada por nervios verticales y horizontales, que mejoran la
+                  rigidez y el comfort.
                 </li>
 
                 <li>
@@ -75,7 +75,7 @@ export default function OronaPage() {
                   <a href="">
                     <h3>Pulsadores de cabina y piso</h3>
                   </a>
-                  Boton circular que recuerda la htmlForma del logotipo de la marca
+                  Boton circular que recuerda la forma del logotipo de la marca
                 </li>
 
                 <li>
