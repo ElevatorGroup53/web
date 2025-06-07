@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Elevator Group",
-  description: "Para elevar su confort hasta las mayores alturas",
+  description: "Soluciones que llevan su confort y movilidad a un nuevo nivel",
   icons: ["letras/iconoEgp.png"],
 };
 
@@ -65,7 +65,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         {children}
 
         <section id="info">
-          <h3>Para muchos elevarse, no es algo simple</h3>
+          <h3>Para muchos, elevarse no es simple. Para nosotros, es nuestra especialidad.</h3>
           <div className="contenedor">
             <div className="info-group">
               <a href="orona">
