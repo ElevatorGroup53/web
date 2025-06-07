@@ -11,7 +11,7 @@ export default function VentaPage() {
       </section>
       <section>
         <div className="contenedor">
-          <h2>PROXIMAMENTE......</h2>
+          <h2>En construccion...</h2>
         </div>
       </section>
     </main>
