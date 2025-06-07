@@ -96,7 +96,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 
         <footer>
           <div className="contenedor">
-            <p className="copy">Elevator Group Panama</p>
+            <p className="copy">Contactanos: 399-5207 | 6675-6561 | comercial.elevatorgroup@gmail.com</p>
             <div className="sociales">
               <a className="icon-facebook" href=""></a>
               <a className="icon-twitter" href=""></a>
