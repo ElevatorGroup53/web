@@ -30,7 +30,7 @@ export default function Home() {
 
         <div className="contenedor">
           <h2>Elevator Group Panama</h2>
-          <p>Para elevar su confort hasta las mayores alturas</p>
+          <p>Soluciones que llevan su confort y movilidad a un nuevo nivel.</p>
         </div>
       </section>
 
